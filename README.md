@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=3500&pause=500&color=32CD32&center=true&vCenter=true&multiline=true&width=2250&height=300&lines=Hi+I'm+Hasan+BOZKUŞ;A+Passionate+Backend+Developer+From+TURKEY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=3500&pause=500&color=32CD32&center=true&vCenter=true&multiline=true&width=2250&height=300&lines=Hi+I'm+Hasan+BOZKUŞ;A+Passionate+Backend+Web+Developer+From+TURKEY" alt="Typing SVG" /></a>
 
 <p align="center">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/hasan-bozkus?label=Followers&style=social"> •   
