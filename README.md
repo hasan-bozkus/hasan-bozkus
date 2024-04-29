@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+# Work
+- 🔭 I'm currently working on [web](https://github.com/hasan-bozkus/TechnoGudie) projects.
+
+- 🌱 I’m currently learning **.NET** and **.NET CORE**
+
+- 💬 Ask me about **C#, SQL and about any subject**
+
+- 📫 How to reach me **hhasanbozkus0147@gmail.com** and **[Bionluk.com → hasanbozkus0147](https://bionluk.com/hasanbozkus0147)**
+***
+
 <!--
 **hasan-bozkus/hasan-bozkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
