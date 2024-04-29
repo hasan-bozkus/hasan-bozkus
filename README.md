@@ -74,3 +74,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-bozkus&theme=tokyonight&hide_border=true" style="width:400px">
 </div>
 
+![snake gif](https://github.com/hasan-bozkus/hasan-bozkus/blob/output/github-contribution-grid-snake-dark.svg)
+
