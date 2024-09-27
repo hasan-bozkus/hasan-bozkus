@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-bozkus" alt="hasan-bozkus" /></a> </p>
 
 # Work
-- 🔭 I'm currently working on [web](https://github.com/hasan-bozkus/TechnoGudie) projects.
+- 🔭 I'm currently working on [web](https://github.com/hasan-bozkus/CayirliFM) projects.
 
 - 🌱 I’m currently learning **.NET** and **.NET CORE**
 
