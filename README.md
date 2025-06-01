@@ -24,11 +24,13 @@
 ***
 
 
-# Connect with me:
+# Connect with me and buy a coffee:
 <p align="left">
 <a href="https://www.linkedin.com/in/hasan-bozkuş-782355262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-bozkuş-782355262/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hasanbozkus0147/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="hasan-bozkus" height="30" width="30" /></a>
 <a href="https://bionluk.com/hasanbozkus0147" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/XDKGzDD_jjY_KrqZg3COTdV9oW5e4lZjgOPGP07aOIaNsCqNdvcmVrocc7XFr01PdR0P" alt="hasan-bozkus" height="30" width="40" /></a>
+  <a href="https://buymeacoffee.com/hasanbozkus">Buy me a coffee</a>
+  https://buymeacoffee.com/hasanbozkus
 </p>
 </p>
 
