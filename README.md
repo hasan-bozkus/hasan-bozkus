@@ -21,6 +21,7 @@
 
 # Published Projects
 - <a href ="https://hasanbozkus.com.tr/">Hasan BOZKUŞ</a>
+- <a href ="https://technoguide.com.tr/">Techno Guide</a>
 ***
 
 
